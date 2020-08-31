@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://tenor.com/Mzat.gif)
+<img src="https://tenor.com/Mzat.gif">
